@@ -1,2 +1,0 @@
-# Binkeyit
-Full stack  Application
