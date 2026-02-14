@@ -1,6 +1,6 @@
 
 ### Blinkey-Full-Stack-Ecommerce
-
+A  Blinkit e-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The platform enables seamless online shopping with secure authentication, product management, and admin control functionalities.
 
 
 
